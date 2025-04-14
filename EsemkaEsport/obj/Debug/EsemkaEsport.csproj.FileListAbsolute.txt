@@ -1,0 +1,15 @@
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\bin\Debug\EsemkaEsport.exe.config
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\bin\Debug\EsemkaEsport.exe
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\bin\Debug\EsemkaEsport.pdb
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.csproj.AssemblyReference.cache
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.FormLogin.resources
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.Properties.Resources.resources
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.csproj.GenerateResource.cache
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.csproj.CoreCompileInputs.cache
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.exe
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.pdb
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.FormRegister.resources
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.MainForm.resources
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.BookForm.resources
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.MyTcket.resources
+C:\Users\SAYA\source\repos\EsemkaEsport\EsemkaEsport\obj\Debug\EsemkaEsport.Print.resources
