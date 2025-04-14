@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EsemkaEsport\\EsemkaEsport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\mytcket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\mytcket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Print.cs [Design]",
+              "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\Print.cs",
+              "RelativeDocumentMoniker": "EsemkaEsport\\Print.cs",
+              "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\Print.cs [Design]",
+              "RelativeToolTip": "EsemkaEsport\\Print.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:29:28.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTcket.cs [Design]",
+              "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MyTcket.cs",
+              "RelativeDocumentMoniker": "EsemkaEsport\\MyTcket.cs",
+              "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MyTcket.cs [Design]",
+              "RelativeToolTip": "EsemkaEsport\\MyTcket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:29:27.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MainForm.cs",
+              "RelativeDocumentMoniker": "EsemkaEsport\\MainForm.cs",
+              "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MainForm.cs [Design]",
+              "RelativeToolTip": "EsemkaEsport\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:29:26.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormRegister.cs",
+              "RelativeDocumentMoniker": "EsemkaEsport\\FormRegister.cs",
+              "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormRegister.cs [Design]",
+              "RelativeToolTip": "EsemkaEsport\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:29:26.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormLogin.cs",
+              "RelativeDocumentMoniker": "EsemkaEsport\\FormLogin.cs",
+              "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormLogin.cs [Design]",
+              "RelativeToolTip": "EsemkaEsport\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:29:25.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\BookForm.cs",
+              "RelativeDocumentMoniker": "EsemkaEsport\\BookForm.cs",
+              "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\BookForm.cs [Design]",
+              "RelativeToolTip": "EsemkaEsport\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:29:23.803Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
