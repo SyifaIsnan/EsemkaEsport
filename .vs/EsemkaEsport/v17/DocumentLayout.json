@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "D:\\EsemkaEsport\\EsemkaEsport\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|D:\\EsemkaEsport\\EsemkaEsport\\esemkaesport\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\mytcket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|D:\\EsemkaEsport\\EsemkaEsport\\esemkaesport\\mytcket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\mytcket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|D:\\EsemkaEsport\\EsemkaEsport\\esemkaesport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|D:\\EsemkaEsport\\EsemkaEsport\\esemkaesport\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|d:\\esemkaesport\\esemkaesport\\esemkaesport\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|D:\\EsemkaEsport\\EsemkaEsport\\esemkaesport\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{50FEC898-6B18-474D-A8A8-3DB9BEFD4739}|EsemkaEsport\\EsemkaEsport.csproj|solutionrelative:esemkaesport\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Print.cs [Design]",
               "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\Print.cs",
               "RelativeDocumentMoniker": "EsemkaEsport\\Print.cs",
@@ -58,43 +58,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyTcket.cs [Design]",
               "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MyTcket.cs",
               "RelativeDocumentMoniker": "EsemkaEsport\\MyTcket.cs",
               "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MyTcket.cs [Design]",
               "RelativeToolTip": "EsemkaEsport\\MyTcket.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:29:27.548Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-14T02:29:27.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MainForm.cs",
               "RelativeDocumentMoniker": "EsemkaEsport\\MainForm.cs",
               "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\MainForm.cs [Design]",
               "RelativeToolTip": "EsemkaEsport\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:29:26.778Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-14T02:29:26.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormRegister.cs [Design]",
               "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormRegister.cs",
               "RelativeDocumentMoniker": "EsemkaEsport\\FormRegister.cs",
               "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormRegister.cs [Design]",
               "RelativeToolTip": "EsemkaEsport\\FormRegister.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:29:26.048Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-14T02:29:26.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\FormLogin.cs",
               "RelativeDocumentMoniker": "EsemkaEsport\\FormLogin.cs",
@@ -113,8 +110,7 @@
               "ToolTip": "D:\\EsemkaEsport\\EsemkaEsport\\EsemkaEsport\\BookForm.cs [Design]",
               "RelativeToolTip": "EsemkaEsport\\BookForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T02:29:23.803Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-14T02:29:23.803Z"
             }
           ]
         }
